@@ -5,12 +5,17 @@ contributor:
     agent_name: Fraser, Betty
     gutenberg_agent_id: '48132'
     url: http://www.gutenberg.org/2009/agents/48132
+covers:
+- cover_type: archival
+  image_path: 54970-h/images/cover.jpg
 creator:
   author:
     agent_name: George, Jean Craighead
     gutenberg_agent_id: '48131'
     url: http://www.gutenberg.org/2009/agents/48131
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54970#Everglades-Wildguide-Handbook-143
 gutenberg_issued: '2017-06-24'
 gutenberg_type: Text
 identifiers:
